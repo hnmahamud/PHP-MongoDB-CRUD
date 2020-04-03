@@ -1,0 +1,55 @@
+::selection {
+    background-color: #4ba0f9;
+    color: #fff; }
+
+a {
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s; }
+
+a,
+a:focus,
+a:hover {
+    text-decoration: none;
+    outline: 0; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Playfair Display", serif;
+    color: #222222;
+    line-height: 1.2em !important;
+    font-weight: 700; }
+
+h1,
+.h1 {
+    font-size: 36px; }
+
+.mb-40 {
+    margin-bottom: 40px; }
+
+.no-padding {
+    padding: 0; }
+
+.primary-btn {
+    background: transparent;
+    line-height: 48px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 0px;
+    border: 2px solid #4ba0f9;
+    color: #000000;
+    display: inline-block;
+    font-weight: 500;
+    position: relative;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    text-transform: uppercase;
+    position: relative; }
